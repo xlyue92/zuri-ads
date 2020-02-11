@@ -82,7 +82,7 @@
 
 4. Implement src scripts
     ```
-    $ cd zuri-ads-python/src
+    $ cd zuri-ads/src
     $ python3 ideas_forecast.py
     ```
    And check the results.
