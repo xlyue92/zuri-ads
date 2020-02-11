@@ -1,0 +1,7 @@
+host=pgsqlzuri.cgjhahnjoksf.us-east-2.rds.amazonaws.com
+port=5432
+database=kwcloud
+user=postgres
+password=52628600tc
+path=/Users/xlyue/Documents/zuri_google_ads/google-ads-python-master/examples/planning/data/
+tb_name=TEST

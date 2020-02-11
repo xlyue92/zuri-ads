@@ -1,0 +1,5 @@
+customer_id=3924685064
+location_ids=
+keywords=leather boots
+page_urls=
+limit=
