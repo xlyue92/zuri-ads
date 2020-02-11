@@ -4,7 +4,7 @@
 
 
 ## Configuration Setup
-1. Download [zuri ads repo](https://github.com/xlyue92/zuri-ads-python).
+1. Download [zuri ads repo](https://github.com/xlyue92/zuri-ads).
 
    (YAML file and other documents needed)
 
@@ -40,7 +40,7 @@
  
     Insert your client id & secret in your ```google-ads.yaml``` file.
     
-    Make sure you clone the [zuri-ads-python repo](https://github.com/xlyue92/zuri-ads-python), otherwise we start from 
+    Make sure you clone the [zuri-ads repo](https://github.com/xlyue92/zuri-ads), otherwise we start from 
     ```
     $ git clone https://github.com/xlyue92/zuri-ads-python.git
     $ cd zuri-ads-python
