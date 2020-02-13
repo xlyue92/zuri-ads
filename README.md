@@ -43,7 +43,7 @@
     Make sure you clone the [zuri-ads repo](https://github.com/xlyue92/zuri-ads), otherwise we start from 
     ```
     $ git clone https://github.com/xlyue92/zuri-ads.git
-    $ cd zuri-ads-python
+    $ cd zuri-ads
     $ pip install .
     ```
     
